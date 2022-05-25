@@ -40,7 +40,7 @@ A Simple Python tool to change mac address of unix like operating systems.
 - First octet of the new mac address must contain an even number
 
 # Goals
-- Public wifi get Unlimited Internet at full high speed(airport,indian railway station) via change your mac address
+- Public wifi get Unlimited Internet at full high speed(Airports,Railway Station) via change your mac address
 
 - In some places you are required to register mac address to access internet(e.g. Colleges, University, Hotels) you can bypass them
 
