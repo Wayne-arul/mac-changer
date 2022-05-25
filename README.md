@@ -18,7 +18,7 @@
 [+] Last Updated : 24/5/2022
 ```
 
-# MACPY :
+# MACPY 
 A Simple Python tool to change mac address of unix like operating systems.
 
 # Installation
